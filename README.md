@@ -28,7 +28,8 @@ $ ./OlaMundo
 
 ```bash
 # Após fazer suas edições no arquivo OlaMundo.cbl salve e feche-o e rode o compilador coboc
-$ cobc -x OlaMundo.cbl           #<--- o parametro -x é para criar um programa executavel 
+$ cobc -x OlaMundo.cbl
+# O parametro -x é para criar um programa executavel 
 # Depois execute na sua maquina no meu caso ubuntu, lembrando não precisa dar permissão chmod nem nada já virou um executavel
 $ ./OlaMundo
 ```
